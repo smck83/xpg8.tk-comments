@@ -1,3 +1,3 @@
 # xpg8.tk-comments
 
-This repo is used for comments for https://view.xpg8.tk and https://xpg8.tk using open source, comment tool: https://utteranc.es/
+This repo is used for comments for https://ehlo.email and https://xpg8.ehlo.email using open source, comment tool: https://utteranc.es/
